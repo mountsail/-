@@ -2,7 +2,7 @@ There is nothing here!
 才怪咧!QAQ
 为了制造公共文件的冲突，
 我就写点东西，
-方便大家随便改的时候，
+方便大家随便改的时候，(conflict created by yf)
 create conflict;
 
 modification by yf 1
