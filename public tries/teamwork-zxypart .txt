@@ -1,2 +1,9 @@
-how can we make a conflict?
-then let us fix it!
+There is nothing here!
+才怪咧!QAQ
+为了制造公共文件的冲突，
+我就写点南北，
+方便大家随便改的时候
+create conflict;
+
+modification by yf 1
+bug created by yf
